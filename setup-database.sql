@@ -36,9 +36,9 @@ CREATE TABLE karyawan (
 6. Insert data
 ------------------------------------------------------------
 INSERT INTO karyawan (nip, nm_kar, tem_lhr, tgl_lhr, jabatan) VALUES
-('K001', 'Budi Santoso', 'Jakarta', '1990-05-15', 'Manager'),
-('K002', 'Siti Rahayu', 'Bandung', '1992-08-22', 'Staff IT'),
-('K003', 'Ahmad Wijaya', 'Surabaya', '1988-03-10', 'Staff HRD');
+('K001', 'Aldia Riski Fauzi', 'Bogor', '2006-12-14', 'CEO'),
+('K002', 'Jalal', 'Bandung', '1992-08-22', 'Staff IT'),
+('K003', 'Raddin Pratama', 'Bogor', '1988-03-10', 'Manager');
 
 
 7. Cek struktur tabel

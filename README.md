@@ -23,8 +23,6 @@ mvn -version
 mysql --version
 
 
-## 🚀 How to Run
-
 ```bash
 # Build & Compile
 mvn clean compile

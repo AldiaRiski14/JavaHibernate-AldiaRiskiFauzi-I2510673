@@ -1,10 +1,10 @@
 # JavaHibernate_Aldia Riski Fauzi_I.2510673
 
-# JavaPersistence - Employee Management Application
 
 Aplikasi desktop CRUD (Create, Read, Update, Delete) untuk manajemen data karyawan menggunakan **Java 21 LTS**, **Hibernate ORM**, dan **MySQL Database**.
 ## 🧮 hasil
-<img width="1920" height="1080" alt="Screenshot 2026-04-07 222308.png" src="https://github.com/user-attachments/assets/5ef57484-433f-4e26-bcf3-23a51675e2a2" />
+<img width="1483" height="958" alt="Screenshot 2026-04-07 222308" src="https://github.com/user-attachments/assets/3bda0940-2746-40ea-9274-49662ca52fe4" />
+
 
 ## 🔧 Prerequisites
 
